@@ -1,1 +1,1 @@
-read me.
+Adding a Assignment for testing/ viewing purposes. This assignment we used both C++ and Python to make a application that prints out a simple menu and takes a users number and gives out a 1-10 multination table or a double value  for said input.  12/15/2021
