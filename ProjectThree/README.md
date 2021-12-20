@@ -1,0 +1,8 @@
+Summarize the project and what problem it was solving. The project takes in a list of items ,  and prints out how  many there are in the list , as well as being able to search an item, and a histogram of items.
+What did you do particularly well? I got the program to work. I was able to get c++ and python to work together.
+Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on? Im sure theres alot i can do with this code to enhance it. One thing i would do is have the dictonary work no matter where you are in the code. 
+This would make the code more  efficient as the user wouldnt need to press "1" every time.
+Which pieces of the code did you find most challenging to write, and how did you overcome this? The part i had the hardest time writeing was getting python and c++ to work together.
+What tools or resources are you adding to your support network? With the help of a tutor and mostly my teacher they where able to walk me though the code to get it to run as it should, they also showed me ways to debug as i coded parts of it.
+What skills from this project will be particularly transferable to other projects or course work? I think knowing both python and C++ and how they work together will transfer to other classes well. They will also come handy as i learn more in my courses here.
+How did you make this program maintainable, readable, and adaptable? Im not sure any of these goes with this program , i just got it to work to a sense, i think there are ways to code it better to be more maintainable, readable, and adaptable.
